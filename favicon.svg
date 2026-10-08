@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Mr. Sweeps Chimney Cleaning">
+  <rect width="64" height="64" rx="14" fill="#14110F"/>
+  <!-- chimney stack -->
+  <rect x="20" y="26" width="24" height="26" rx="2" fill="#F3EDE5"/>
+  <rect x="16" y="20" width="32" height="8" rx="2" fill="#FBF8F4"/>
+  <!-- brick lines -->
+  <g stroke="#14110F" stroke-width="1.6" opacity=".55">
+    <path d="M20 34h24M20 42h24M28 28v6M36 34v8M28 42v10"/>
+  </g>
+  <!-- ember / smoke -->
+  <path d="M34 16c0-4-3-6-3-9 0 0 5 1.5 7 5 1.6 2.8.6 5.3-1 7.2-1.3 1.6-3 .5-3-3.2z" fill="#F97316"/>
+  <circle cx="24" cy="12" r="2.6" fill="#E2590B" opacity=".75"/>
+  <circle cx="42" cy="10" r="2" fill="#FDBA74" opacity=".65"/>
+</svg>
